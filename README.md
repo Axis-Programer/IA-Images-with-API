@@ -19,7 +19,9 @@ Nombres de los archivos:
 3-) server.js
 4-) script.js
 
-Por si un caso esta todo el codigo en GitHub de Axis_Programer hos dejo el enlace: 
+Por si un caso esta todo el codigo esta hecho solamente te vas al Codificador, en este caso Visul Studio Code - Inserders. En el 
+apartado de extensiones te vas al buscador y buscas Life Server, la instalas(Nota: no se te instalara en el ordenador, sino en el programa).
+Y en el codeigo de HTML abajo salve Go Live apretan y todos los cambios seran autocargados.
 
 Configuración
 Instala Node.js y npm: Si aún no lo tienes instalado, descárgalo e instálalo desde nodejs.org.
